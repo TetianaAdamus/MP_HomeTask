@@ -50,7 +50,7 @@
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
-      <version>3.14.0</version>
+      <version>4.8.0</version>
     </dependency>
 
     <dependency>
@@ -72,6 +72,16 @@
     <!--    <sourceDirectory>${src.dir}</sourceDirectory>-->
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
+        <!-- plugin to run test cases from maven -->
+        <plugin>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>3.0.0-M9</version>
+          <configuration>
+            <systemPropertyVariables>
+              <browser>chrome</browser>
+            </systemPropertyVariables>
+          </configuration>
+        </plugin>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.0.0</version>
