@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e02814b-d391-4a8b-b661-9aaaf999f40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desktop/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cucumber-platform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-platform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/gridTest/BookDepositoryGridTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junitTest/JunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desktop/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desktop/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desktop/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desktop/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desktop/pageFactory/PageFactoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desktop/pageFactory/PageFactoryManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/DefinitionsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/DefinitionsSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/BookDepository.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/BookDepository.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/BookDepository.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/BookDepository.feature" afterDir="false" />
-    </list>
+    <list default="true" id="5e02814b-d391-4a8b-b661-9aaaf999f40e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +40,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Tetiana_Adamus/IdeaProjects/HomeTask4"
+    "last_opened_file_path": "C:/Users/Tetiana_Adamus/IdeaProjects/HomeTask4",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
